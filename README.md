@@ -6,4 +6,4 @@ The GameHub is a collection of 4 games with a UI, time and counter system.
 
 Moviefinder uses beautifulsoup and requests to scrape IMDB movie lists and print it.
 
-I also have a blog: https://thepygrammer.blogspot.com/ Do give it a look too.
+I also have a blog: https://thepygrammer.blogspot.com/ with simple projects at a beginner and intermediate level. Do give it a look too.
